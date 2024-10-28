@@ -1,0 +1,1 @@
+![[Inductive Reasoning 2.png]]

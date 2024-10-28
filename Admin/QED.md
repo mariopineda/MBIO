@@ -1,0 +1,3 @@
+You have 10 minutes to complete and turn in the following Question of the Day (QED). It is due 10 minutes after the start of the class. When you have completed the assignment, take a picture of it with your phone, upload the picture to Google Classroom and turn it in.
+
+QEDs submitted late will not be considered. The completion of all QEDs **on time** (late QEDs do not count) will be required in order to be eligible to write the replacement exam. 

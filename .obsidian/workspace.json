@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "e11b6cde07a6a136",
+    "type": "split",
+    "children": [
+      {
+        "id": "d54404aabd41ebfc",
+        "type": "split",
+        "children": [
+          {
+            "id": "4e9626bb7b8cafaa",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fbf69d4881cb3404",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math/Combinatorics/Permutations 5.md",
+                    "mode": "source",
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Permutations 5"
+                }
+              }
+            ]
+          },
+          {
+            "id": "eabf8304f526fb63",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "784dbb85f04a6886",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math/Combinatorics/Fundamental Counting Principle.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  },
+                  "icon": "lucide-file",
+                  "title": "Fundamental Counting Principle"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "5699de89f0744156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52a8f59bea60cba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin/Entry Template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Entry Template"
+            }
+          },
+          {
+            "id": "74dffea3c1094eeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Admin/Professional Growth Plan 2024-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Professional Growth Plan 2024-25"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c11bfc143b699d09",
+    "type": "split",
+    "children": [
+      {
+        "id": "30dc2c90446f6036",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09d1eb0632adb5f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6f9fca594851c297",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Implementation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 478.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bb23b4665dcc4182",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb8da2aae1a0557b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "788cd1468a8ecead",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Combinatorics/Fundamental Counting Principle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Fundamental Counting Principle"
+            }
+          },
+          {
+            "id": "1067e47bd91a006c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Combinatorics/Fundamental Counting Principle.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Fundamental Counting Principle"
+            }
+          },
+          {
+            "id": "9a7545c5829a014d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7246bdd7a59ff1de",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Combinatorics/Fundamental Counting Principle.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Fundamental Counting Principle"
+            }
+          },
+          {
+            "id": "9ae79cd1a0235edb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "784dbb85f04a6886",
+  "lastOpenFiles": [
+    "Math/Combinatorics/Permutations 5.md",
+    "Admin/Entry Template.md",
+    "Admin/Professional Growth Plan 2024-25.md",
+    "mbio/LICENSE",
+    "mbio/README.md",
+    "mbio",
+    "Admin/Class Checklist.md",
+    "Math/Calculus/Integration/Antiderivative 1.md",
+    "Math/Calculus/Integration/Antiderivative.md",
+    "Math/Concepts/Division by Zero.md",
+    "Math/Reasoning/Inductive Reasoning 1.md",
+    "Images/Trigonometry.jpg",
+    "Math/Concepts/Transcendental Functions.md",
+    "Math/Concepts/Tombstone.md",
+    "Math/Symmetric Difference.md",
+    "The board-centred classroom.md",
+    "Admin/START HERE.md",
+    "Admin/QED.md",
+    "Trigonometry/Pythagorean Identity.md",
+    "Math/Polynomials/Polynomial Functions 4.png .png",
+    "Images/Pathways.png",
+    "Images/Pathway Problems.png",
+    "Images/Harry Potter.jpg",
+    "Images/Pascal's Triangle.png",
+    "Math/Concepts/Parity.md",
+    "Math/Concepts/Naught.md",
+    "Math/Concepts/Mathematical Proof.md",
+    "Math/Reasoning/Inductive Reasoning 1.png",
+    "Math/Reasoning/Inductive Reasoning 2.png",
+    "Math/Concepts/Double Factorial.md",
+    "Images/Domain and range.png",
+    "Math/Calculus/Differential Equations with Initial Conditions.md",
+    "Trigonometry/Difference of Squares in Trigonometry.md",
+    "Math/Polynomials/Difference of Squares.md",
+    "Math/Concepts/Diagonal.md",
+    "Math/Concepts",
+    "Images/Balance Puzzle.png",
+    "Images",
+    "Math/Combinatorics/Fundamental Counting Principle.md",
+    "Math/Proportional Reasoning",
+    "Admin",
+    "Math/Rational Expressions & Equations",
+    "Math/Reasoning",
+    "Math/Puzzles and Games",
+    "Memes"
+  ]
+}

@@ -1,0 +1,8 @@
+- [ ] Post QOD
+- [ ] Attendance
+- [ ] Process AB list
+- [ ] Process Late list
+- [ ] Do QOD
+- [ ] Prep tomorrow's QOD
+- [ ] Prep one practice problem
+- [ ] Prep lesson notes  
