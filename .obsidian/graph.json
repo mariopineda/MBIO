@@ -20,18 +20,25 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag: #practice",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.14635416666667,
-  "lineSizeMultiplier": 1.35052083333333,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.42708333333333,
+  "lineSizeMultiplier": 1.74184027777778,
   "collapse-forces": false,
-  "centerStrength": 0.854166666666667,
+  "centerStrength": 0.9375,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.490370480013996,
-  "close": false
+  "scale": 1.7796655840992583,
+  "close": true
 }

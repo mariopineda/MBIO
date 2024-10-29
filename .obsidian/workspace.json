@@ -4,27 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "4e9626bb7b8cafaa",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbf69d4881cb3404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Combinatorics/Combinations 3.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Combinations 3"
-            }
-          }
-        ]
-      },
-      {
         "id": "c0a2142d35388ac3",
         "type": "tabs",
         "children": [
@@ -35,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Math/Combinatorics/Combinations 3.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               },
@@ -89,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 227.5
   },
   "right": {
     "id": "bb23b4665dcc4182",
@@ -176,43 +155,43 @@
   },
   "active": "72aa8e1ecbd0e358",
   "lastOpenFiles": [
-    "Admin/Professional Growth Plan 2024-25.md",
+    "Admin/Entry Template.md",
     "Math/Combinatorics/Combinations 3.md",
+    "Math/Set Theory/Set Theory.md",
+    "Math/Reasoning/Reasoning.md",
+    "Math/Set Theory",
+    "Math/Symmetric Difference.md",
+    "Courses/Math 20-2/4. Proportional Reasoning.md",
+    "Courses/Math 10C/2. Exponents & Radicals.md",
+    "Courses/Math 10C/1. Right Triangle Trigonometry.md",
+    "Courses/Math 10C/0. Math 10C.md",
+    "Courses/Courses.md",
+    "Courses/Untitled.md",
+    "Math/Rational Expressions & Equations/Rational Expressions & Equations.md",
+    "Math/Proportional Reasoning/Proportional Reasoning.md",
+    "Math/Polynomials/Polynomials.md",
+    "Math/Exponential Functions/Exponential Functions.md",
+    "Math/Concepts/Concepts.md",
+    "Math/Combinatorics/Untitled.md",
+    "Math/Combinatorics/Combinations.md",
+    "Math/Calculus/Calculus.md",
+    "Math/Arithmetic/Arithmetic.md",
+    "Math/Math.md",
+    "Math/Combinatorics/Combinatorics.md",
+    "Admin/Professional Growth Plan 2024-25.md",
     "Math/Combinatorics/Combinations 2.md",
     "Math/Combinatorics/Combinations 1.md",
-    "Admin/Entry Template.md",
-    "Math/Combinatorics/Permutations 5.md",
-    "Math/Combinatorics/Fundamental Counting Principle.md",
     "mbio/LICENSE",
-    "mbio/README.md",
     "mbio",
-    "Admin/Class Checklist.md",
-    "Math/Calculus/Integration/Antiderivative 1.md",
-    "Math/Calculus/Integration/Antiderivative.md",
-    "Math/Concepts/Division by Zero.md",
-    "Math/Reasoning/Inductive Reasoning 1.md",
     "Images/Trigonometry.jpg",
-    "Math/Concepts/Transcendental Functions.md",
-    "Math/Concepts/Tombstone.md",
-    "Math/Symmetric Difference.md",
-    "The board-centred classroom.md",
-    "Admin/START HERE.md",
-    "Admin/QED.md",
-    "Trigonometry/Pythagorean Identity.md",
     "Math/Polynomials/Polynomial Functions 4.png .png",
     "Images/Pathways.png",
     "Images/Pathway Problems.png",
     "Images/Harry Potter.jpg",
     "Images/Pascal's Triangle.png",
-    "Math/Concepts/Parity.md",
-    "Math/Concepts/Naught.md",
-    "Math/Concepts/Mathematical Proof.md",
     "Math/Reasoning/Inductive Reasoning 1.png",
     "Math/Reasoning/Inductive Reasoning 2.png",
-    "Math/Concepts/Double Factorial.md",
     "Images/Domain and range.png",
-    "Math/Calculus/Differential Equations with Initial Conditions.md",
-    "Trigonometry/Difference of Squares in Trigonometry.md",
     "Math/Concepts",
     "Images/Balance Puzzle.png",
     "Images",
@@ -220,7 +199,6 @@
     "Admin",
     "Math/Rational Expressions & Equations",
     "Math/Reasoning",
-    "Math/Puzzles and Games",
-    "Memes"
+    "Math/Puzzles and Games"
   ]
 }

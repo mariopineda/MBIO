@@ -1,0 +1,21 @@
+%% Begin Waypoint %%
+- [[Binomial Theorem 1]]
+- [[Combinations 1]]
+- [[Combinations 2]]
+- [[Combinations 3]]
+- [[Combinations]]
+- [[Factorial Notation 1]]
+- [[Fundamental Counting Principle 1]]
+- [[Fundamental Counting Principle 2]]
+- [[Fundamental Counting Principle]]
+- [[Pascal's Triangle]]
+- [[Permutations 1]]
+- [[Permutations 2]]
+- [[Permutations 3]]
+- [[Permutations 4]]
+- [[Permutations 5]]
+- [[Permutations with Identical Objects]]
+- [[Permutations with Repetition 1]]
+- [[Math/Combinatorics/Untitled]]
+
+%% End Waypoint %%
