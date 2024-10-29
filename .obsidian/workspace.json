@@ -4,89 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "d54404aabd41ebfc",
-        "type": "split",
-        "children": [
-          {
-            "id": "4e9626bb7b8cafaa",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "fbf69d4881cb3404",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Math/Combinatorics/Permutations 5.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Permutations 5"
-                }
-              }
-            ]
-          },
-          {
-            "id": "eabf8304f526fb63",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "784dbb85f04a6886",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Math/Combinatorics/Fundamental Counting Principle.md",
-                    "mode": "source",
-                    "backlinks": true,
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Fundamental Counting Principle"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "5699de89f0744156",
+        "id": "4e9626bb7b8cafaa",
         "type": "tabs",
         "children": [
           {
-            "id": "52a8f59bea60cba7",
+            "id": "fbf69d4881cb3404",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Entry Template.md",
+                "file": "Math/Combinatorics/Combinations 3.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Entry Template"
+              "title": "Combinations 3"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c0a2142d35388ac3",
+        "type": "tabs",
+        "children": [
           {
-            "id": "74dffea3c1094eeb",
+            "id": "72aa8e1ecbd0e358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Admin/Professional Growth Plan 2024-25.md",
-                "mode": "source",
+                "file": "Math/Combinatorics/Combinations 3.md",
+                "mode": "preview",
                 "backlinks": true,
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Professional Growth Plan 2024-25"
+              "title": "Combinations 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 478.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bb23b4665dcc4182",
@@ -195,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Admin/Professional Growth Plan 2024-25.md"
+                "file": "Math/Combinatorics/Combinations 3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Professional Growth Plan 2024-25"
+              "title": "Outline of Combinations 3"
             }
           }
         ],
@@ -218,12 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74dffea3c1094eeb",
+  "active": "72aa8e1ecbd0e358",
   "lastOpenFiles": [
-    "Math/Combinatorics/Fundamental Counting Principle.md",
-    "Math/Combinatorics/Permutations 5.md",
-    "Admin/Entry Template.md",
     "Admin/Professional Growth Plan 2024-25.md",
+    "Math/Combinatorics/Combinations 3.md",
+    "Math/Combinatorics/Combinations 2.md",
+    "Math/Combinatorics/Combinations 1.md",
+    "Admin/Entry Template.md",
+    "Math/Combinatorics/Permutations 5.md",
+    "Math/Combinatorics/Fundamental Counting Principle.md",
     "mbio/LICENSE",
     "mbio/README.md",
     "mbio",
@@ -254,8 +213,6 @@
     "Images/Domain and range.png",
     "Math/Calculus/Differential Equations with Initial Conditions.md",
     "Trigonometry/Difference of Squares in Trigonometry.md",
-    "Math/Polynomials/Difference of Squares.md",
-    "Math/Concepts/Diagonal.md",
     "Math/Concepts",
     "Images/Balance Puzzle.png",
     "Images",
