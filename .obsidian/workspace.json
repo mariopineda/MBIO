@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "bb23b4665dcc4182",
@@ -175,8 +174,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aed0b8fae5a56caa",
+  "active": "172d88f3860dca93",
   "lastOpenFiles": [
+    "New Text Document.txt",
     "Math/Set Theory/Set Theory 2.md",
     "Admin/Class Checklist.md",
     "Trigonometry/Angles & Angle Measures.md",
@@ -203,7 +203,6 @@
     "Math/Exponential Functions/Exponential Functions.md",
     "Math/Concepts/Concepts.md",
     "Math/Combinatorics/Untitled.md",
-    "Math/Combinatorics/Combinations.md",
     "mbio/LICENSE",
     "mbio",
     "Images/Trigonometry.jpg",
